@@ -285,5 +285,5 @@ if __name__ == "__main__":
     bss = BSS(method="gcc_nmf",
               num_sources=2,
               mic_distance=1.0)
-    bss.separate(wav_file="/home/jcadic/Music/bss/tbs2_stereo_mix.wav",
-                 output_dir="/home/jcadic/Music/bss/output_dir")
+    bss.separate(wav_file="mix.wav",
+                 output_dir="./")
