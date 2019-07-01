@@ -33,4 +33,4 @@ This will separate the mixed audio file into two separated audio files.
 
 ## Contributions
 
-Email me at contact@9dwlab.com for any questions.
+Email me at contact@9dw-lab.com for any questions.
